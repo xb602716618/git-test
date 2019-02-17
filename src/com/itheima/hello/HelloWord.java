@@ -10,5 +10,6 @@ public class HelloWord {
 
     public void test(){
         System.out.println("++++++++++");
+        System.out.println("------------------");
     }
 }
